@@ -1,0 +1,16 @@
+html{
+    overflow: hidden;
+}
+footer{
+    background: #2e3135;
+    color: aliceblue;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13;
+    letter-spacing: 2px;
+    position: fixed;
+    bottom: 0px;
+    height: 70px;
+}
